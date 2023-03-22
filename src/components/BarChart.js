@@ -5,8 +5,11 @@ import {Bar} from 'react-chartjs-2'
 
 const BarChart = ({chartData}) => {
   return (
-    <Bar data={chartData}/>
-  )
+    <div>
+      <div>Bar Chart</div>
+      <Bar data={chartData} />
+    </div>
+  );
 }
 
 export default BarChart

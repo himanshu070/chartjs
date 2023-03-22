@@ -2,7 +2,7 @@ export const UserData = [
     {
         id: 1,
         year: 2016,
-        profit: 45900,
+        profit: 15900,
         loss: 4000
     },
     {
@@ -14,19 +14,19 @@ export const UserData = [
     {
         id: 3,
         year: 2018,
-        profit: 4900,
+        profit: 22900,
         loss: 40010
     },
     {
         id: 4,
         year: 2019,
-        profit: 11900,
+        profit: 51900,
         loss: 200
     },
     {
         id: 5,
         year: 2020,
-        profit: 5900,
+        profit: 30900,
         loss: 5000
     },
 ]
